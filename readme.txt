@@ -1,5 +1,5 @@
 === Hello Wapuu ===
-Contributors: Kunitoshi Hoshino
+Contributors: khoshino
 Donate link: http://wp3.jp/
 Tags: widget, widgets, admin, dashboard, event, events, plugin, plugins, wapuu
 Requires at least: 2.9.2
