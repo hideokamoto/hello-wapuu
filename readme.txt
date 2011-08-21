@@ -37,18 +37,18 @@ In future versions, it is going to support the translation files.
 
 == Changelog ==
 = 0.2 =
-August 22, 2011
+* August 22, 2011
 * Public release.
 * Added support to display your user name.
 * Bugfix: Added support for multi-site.
 
 = 0.1 =
-August 14, 2011
+* August 14, 2011
 * Initial release.
 
 == Upgrade Notice ==
 = 0.2 =
-This version supported multi-site.
+* This version supported multi-site.
 
 == Arbitrary section ==
 My name is Kunitoshi Hoshino.
