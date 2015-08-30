@@ -1,17 +1,16 @@
 === Hello Wapuu ===
-Contributors: khoshino
+Contributors: khoshino, wokamoto, jim912, odyssey, mayukojpn, toro_unit, yuusuke
 Donate link: http://wp3.jp/
 Tags: widget, widgets, admin, dashboard, event, events, plugin, plugins, wapuu
 Requires at least: 2.9.2
-Tested up to: 3.2.1
-Stable tag: 0.2
+Tested up to: 4.3
+Stable tag: 0.3
 
-WordPress Japanese official character "Wapuu" is plugin to speak a message on a dashboard.
+Ja.wordpress.org official character "わぷー(Wapuu)" will tell you about your activity on a dashboard.
 
 == Description ==
-WordPress Japanese official character "Wapuu" is plugin to speak a message on a dashboard.
-Only Japanese supports it now.
-In future versions, it is going to support the translation files.
+Ja.wordpress.org official character "わぷー(Wapuu)" will tell you about your activity on a dashboard.
+It's ready for translation from Japanese to your language.
 
 = Functions =
 1. The current time is displayed on the dashboard.
@@ -36,14 +35,19 @@ In future versions, it is going to support the translation files.
 1. WordPress Japanese official character "Wapuu" talks on the dashboard.
 
 == Changelog ==
+= 0.3 =
+August 29, 2015
+* replace Wapuu's image to SVG.
+* rewrite word bubble with CSS3.
+* made strings translatable.
 = 0.2 =
-* August 22, 2011
+August 22, 2011
 * Public release.
 * Added support to display your user name.
 * Bugfix: Added support for multi-user.
 
 = 0.1 =
-* August 14, 2011
+August 14, 2011
 * Initial release.
 
 == Upgrade Notice ==

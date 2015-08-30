@@ -1,60 +1,65 @@
 === Hello Wapuu ===
-Contributors: Kunitoshi Hoshino
+Contributors: khoshino, wokamoto, jim912, odyssey, mayukojpn, toro_unit, yuusuke
 Donate link: http://wp3.jp/
 Tags: widget, widgets, admin, dashboard, event, events, plugin, plugins, wapuu
 Requires at least: 2.9.2
-Tested up to: 3.2.1
+Tested up to: 4.3
 Stable tag: 0.2
 
-���̃v���O�C���́AWordPress���{�����L�����N�^�[�ł���u��Ձ[�v���A�Ǘ���ʂ̃_�b�V���{�[�h�Ń��b�Z�[�W��b���v���O�C���ł��B
+このプラグインは、WordPress日本公式キャラクターである「わぷー」が、管理画面のダッシュボードでメッセージを話すプラグインです。
 
-== �v���O�C���̐��� ==
-���̃v���O�C���́AWordPress���{�����L�����N�^�[�ł���u��Ձ[�v���A�Ǘ���ʂ̃_�b�V���{�[�h�Ń��b�Z�[�W��b���v���O�C���ł��B
-���݂́A���{��݂̂̑Ή��ł��B
-�����̃o�[�W�����ł́A�|��t�@�C���ɂ��Ή�����\��ł��B
+== プラグインの説明 ==
+このプラグインは、WordPress日本公式キャラクターである「わぷー」が、管理画面のダッシュボードでメッセージを話すプラグインです。
+現在は、日本語のみの対応です。
+将来のバージョンでは、翻訳ファイルにも対応する予定です。
 
-= �@�\ =
-1.���݂̎������_�b�V���{�[�h�ɕ\�����܂��B
-2.�ŏI���e����\�����āA���̏�ŁA�ŏI���e�����猻�݂܂ŁA�ǂꂭ�炢�̊��ԁA�L�����X�V���Ă��Ȃ�����\�����܂��B
+= 機能 =
+1.現在の時刻をダッシュボードに表示します。
+2.最終投稿日を表示して、その上で、最終投稿日から現在まで、どれくらいの期間、記事を更新していないかを表示します。
 
-== �C���X�g�[���̕��@ ==
-1.�uhello-wapuu�v���v���O�C���f�B���N�g���ɃA�b�v���[�h���܂��B
-2.�v���O�C����L�������܂��B
-3.�u��Ձ[���b�Z�[�W�v���_�b�V���{�[�h�̃E�B�W�F�b�g�Ƃ��ĕ\������܂��B
+== インストールの方法 ==
+1.「hello-wapuu」をプラグインディレクトリにアップロードします。
+2.プラグインを有効化します。
+3.「わぷーメッセージ」がダッシュボードのウィジェットとして表示されます。
 
-== �悭���鎿�� ==
-= �Ή����Ă���E�F�u�u���E�U�͉��ł����H =
-HTML5��CSS3�ɑΉ����Ă���E�F�u�u���E�U�ɑΉ����Ă��܂��B
-Chrome��Firefox��IE9�ɂ͑Ή����Ă��܂��B
-IE6��IE7��IE8�ɂ͑Ή����Ă��܂���B
+== よくある質問 ==
+= 対応しているウェブブラウザは何ですか？ =
+HTML5とCSS3に対応しているウェブブラウザに対応しています。
+ChromeやFirefoxやIE9には対応しています。
+IE6やIE7やIE8には対応していません。
 
-= �Ή����Ă��錾��͉��ł����H =
-���݂́A���{��݂̂̑Ή��ł��B
-�����̃o�[�W�����ł́A�|��t�@�C���ɂ��Ή�����\��ł��B
+= 対応している言語は何ですか？ =
+現在は、日本語のみの対応です。
+将来のバージョンでは、翻訳ファイルにも対応する予定です。
 
-== �X�N���[���V���b�g ==
-1.WordPress���{�����L�����N�^�[�ł���u��Ձ[�v���A�Ǘ���ʂ̃_�b�V���{�[�h�Ń��b�Z�[�W��b���܂��B
+== スクリーンショット ==
+1.WordPress日本公式キャラクターである「わぷー」が、管理画面のダッシュボードでメッセージを話します。
 
-== �X�V���� ==
+== 更新履歴 ==
+= 0.3 =
+2015年8月29日
+* わぷーの画像を SVG にしました。
+* ふきだし部分を画像から CSS3 にしました。
+* 翻訳可能にしました。
 = 0.2 =
-2011�N8��22��
-* �����f�B���N�g���Ɍ��J���܂����B
-* ���[�U�[�����\�������悤�ɂ��܂����B
-* �o�O�t�B�b�N�X�F�}���`���[�U�[�ɑΉ����܂����B
+2011年8月22日
+* 公式ディレクトリに公開しました。
+* ユーザー名が表示されるようにしました。
+* バグフィックス：マルチユーザーに対応しました。
 
 = 0.1 =
-2011�N8��14��
-* �uHello Wapuu�v�v���O�C���������[�X���܂����B
+2011年8月14日
+* 「Hello Wapuu」プラグインをリリースしました。
 
-== �A�b�v�O���[�h����K�v����ʒm ==
+== アップグレードする必要性を通知 ==
 = 0.2 =
-�}���`���[�U�[�ɑΉ����܂����B
+マルチユーザーに対応しました。
 
-== �C�ӂ̋L�� ==
-���̖��O�́A����M�q�ł��B
-���͓��{�l�ł��B
-���̃v���O�C���́AWordPress���{�����L�����N�^�[�ł���u��Ձ[�v�̒a�����L�O���āA�������܂����B
-���͉p�ꂪ���ӂł͂Ȃ��̂ŁA�p���ɊԈႢ�����邩������܂���B
-WordPress�v���O�C���̌��J��ǂ��L�b�J�P�Ƃ��āA���͉p���׋����Ă݂����ƍl���Ă��܂��B
-���肪�Ƃ��I
-�uWordPress�R�~���j�e�B�ihttp://wp3.jp/�j�v�����̃u���O�ł��B
+== 任意の記載 ==
+私の名前は、星野邦敏です。
+私は日本人です。
+このプラグインは、WordPress日本公式キャラクターである「わぷー」の誕生を記念して、私が作りました。
+私は英語が得意ではないので、英文に間違いがあるかもしれません。
+WordPressプラグインの公開を良いキッカケとして、私は英語を勉強してみたいと考えています。
+ありがとう！
+「WordPressコミュニティ（http://wp3.jp/）」が私のブログです。

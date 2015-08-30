@@ -1,0 +1,45 @@
+.wapuu-fukidashi{
+	positon: relative;
+	margin: 0 170px 0 0;
+	padding: 20px 20px 0;
+	border-radius: 15px;
+	border: 3px #eee solid;
+	background-color: #fff;
+}
+.wapuu-fukidashi:after {
+	content: "";
+	display: block;
+	position: absolute;
+  top: 40px;
+  right: 169px;
+  width: 25px;
+  height: 25px;
+	transform: rotate(-45deg);
+	border-right: 3px #eee solid;
+	border-bottom: 3px #eee solid;
+	background-color: #fff;
+}
+.wapuu-fukidashi div {
+	margin-bottom: 1em;
+}
+.wapuu-fukidashi p {
+	font-size: large;
+	line-height: 1;
+	margin: 0;
+}
+.wapuu-fukidashi span {
+	display: block;
+}
+.wapuu-fukidashi .user-name {
+	font-size: large;
+	font-weight: bold;
+}
+.wapuu-fukidashi .large {
+	font-size: large;
+}
+#wapuu_dashboard_commu1 img {
+	position: absolute;
+	top: 0;
+	right: 10px;
+	width: 160px;
+}
